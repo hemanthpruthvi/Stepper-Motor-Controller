@@ -1,5 +1,5 @@
 # Generic Stepper Motor Controller for Multi-Axis Motion
-The project describes a simple and complete solution to multi-axis motion control using generic stepper-motor based mounts with off-the-shelf motor drives. The hardware system looks like:  
+The project describes a simple and complete solution to multi-axis motion control using generic stepper-motor based mounts with off-the-shelf motor drives, a system that looks like the following.  
 
 Motion controller &rarr; Stepper motor drive &rarr; Motorized rotation/translation stage
 
